@@ -1,0 +1,4 @@
+build --action_env=BAZEL_COMPILER=clang
+build --action_env=CC=clang
+build --action_env=CXX=clang++
+build --action_env=PATH
